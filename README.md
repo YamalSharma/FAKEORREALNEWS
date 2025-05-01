@@ -53,16 +53,16 @@ Ensure that you have the following installed on your local machine:
 streamlit run fake_news_classifier_ui.py
 
 # 5. Access the App:
-# Once the app is running, open your web browser and go to:
-# http://localhost:8501
-# You can now input news articles and classify them as either Fake or Real.
+   Once the app is running, open your web browser and go to:
+  http://localhost:8501
+  You can now input news articles and classify them as either Fake or Real.
 
 # Model Evaluation:
-# The classifier achieves an accuracy of over 98%.
-# Detailed precision, recall, and F1-score metrics are available in the classification report.
+  The classifier achieves an accuracy of over 98%.
+  Detailed precision, recall, and F1-score metrics are available in the classification report.
 
 
 # Troubleshooting:
-# - Ensure all dependencies are installed correctly and you're running Python 3.x.
-# - Make sure the dataset is placed in the correct directory (FAKEORREALNEWS).
+  - Ensure all dependencies are installed correctly and you're running Python 3.x.
+  - Make sure the dataset is placed in the correct directory (FAKEORREALNEWS).
 
