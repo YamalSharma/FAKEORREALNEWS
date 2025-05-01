@@ -34,20 +34,20 @@ Ensure that you have the following installed on your local machine:
 ## Steps to Run the Project:
 
 # 1. Clone the Repository:
-git clone https://github.com/YamalSharma/FAKEORREALNEWS.git
-cd FAKEORREALNEWS
+    git clone https://github.com/YamalSharma/FAKEORREALNEWS.git
+    cd FAKEORREALNEWS
 
 # 2. Install Dependencies:
-pip install pandas
-pip install numpy
-pip install scikit-learn
-pip install streamlit
-pip install nltk
+    pip install pandas
+    pip install numpy
+    pip install scikit-learn
+    pip install streamlit
+    pip install nltk
 
 
 # 3. Download the Dataset:
-# Download the dataset from Kaggle: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
-# After downloading, place the 'Fake.csv' and 'True.csv' files in the project directory (FAKEORREALNEWS).
+  Download the dataset from Kaggle: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+   After downloading, place the 'Fake.csv' and 'True.csv' files in the project directory (FAKEORREALNEWS).
 
 # 4. Run the Streamlit App:
 streamlit run fake_news_classifier_ui.py
